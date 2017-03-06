@@ -174,7 +174,7 @@ knit_hooks$set(plot = knitr:::hook_plot_html)
 
 ---
 
-## Our goal
+# Our goal
 
  <img class=center height=400 src=../../assets/img/01_DataScientistToolbox/venn.png />
 
